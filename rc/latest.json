@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0-rc.20",
-  "notes": "ECZ Client 0.5.0-rc.20",
-  "pub_date": "2026-08-24T18:34:58.3077037Z",
+  "version": "0.5.0-rc.21",
+  "notes": "ECZ Client 0.5.0-rc.21",
+  "pub_date": "2026-08-25T01:28:22.7612684Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMFNMcCtxcFJ4MXdKZUdGOUhLYkU5NC9GdkRkcVA2RjQ5Zkw0YWVjQzdGWldsVFQ3SjFSUVo4ZDM3MGJoQVhSRVkzNmdEa0E3Z1U1VHhFM24xbzdRVWxRZWZtcEhMaWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTk2NDkzCWZpbGU6RWN6YW5lIFnDtm5ldGltIFBhbmVsaV8wLjUuMC1yYy4yMF94NjQtc2V0dXAuZXhlCnNPSm9ZbTBCTERwMW5TanJ0VnNiRHNNWkthaGZtakV5Ry9YK2JlaGRNNUg4eFBVR3BTdzJVc2Z3OUlOVW5ZUHFqYm53eGtiVXhqSzduazdyd2laYkRBPT0K",
-      "url": "https://github.com/ramizomer/eczane-yonetim-releases/releases/download/v0.5.0-rc.20/ECZ-Client-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMFNMcCtxcFJ4MS91UEN0alRvRS9uejNicEVRQytUejFCMXNVbWErUzFVUFROVE02SDhsdkVOZ0dSQXFOYVdzMzNJenBXUk1VdTRYMWFkOTNNdGpqaWxISVBPem5LaVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjIxMjk3CWZpbGU6RWN6YW5lIFnDtm5ldGltIFBhbmVsaV8wLjUuMC1yYy4yMV94NjQtc2V0dXAuZXhlCmxyVXR5anJpMEwvL3JIaEd1T2lzZTQrajgwckZTTkFQOGxzUy9KRWlPNHNXUitqemx3NzczYmhtaEdYNHFnZCtjbWk2UE42ZWNJaU5oTTJ1cTY5WERBPT0K",
+      "url": "https://github.com/ramizomer/eczane-yonetim-releases/releases/download/v0.5.0-rc.21/ECZ-Client-Setup.exe"
     }
   }
 }
